@@ -1,5 +1,6 @@
-- Hi, I’m @tvfukuda
-- I’m currently learning data science
+Hi, my name is Tsuyoshi Fukuda and I am electronics engineer with 30+ years of experience in R&D of automation and telecommunications industries.
+
+This repository was created to upload my learnings on topics related to data science, mainly from the degree at Let's Code.
 
 <!---
 tvfukuda/tvfukuda is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
